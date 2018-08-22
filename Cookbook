@@ -1,5 +1,0 @@
-Here are the description for dataset variables:
-* Subject: ID of a subject
-* Activity: Activiti relevant to the observarion which can be : WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING or LAYING
-* mean values which are the average values for the activity for the relevant subject
-* std values which are  the standard deviation values for the activity for the relevant subject
